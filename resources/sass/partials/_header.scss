@@ -1,0 +1,16 @@
+header{
+    background-color: rgb(84, 169, 140);
+    ul{
+        display: flex;
+        justify-content: space-evenly;
+        padding: 30px;
+        font-size: 30px;
+        li{
+            list-style: none;
+            a{
+                text-decoration: none;
+                color: #fff;
+            }
+        }
+    }
+}
